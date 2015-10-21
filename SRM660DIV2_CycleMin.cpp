@@ -96,7 +96,6 @@ This problem statement is the exclusive and proprietary property of TopCoder, In
 #include <iostream>
 #include <string>
 #include <algorithm>
-
 using namespace std;
 
 class Cyclemin {
